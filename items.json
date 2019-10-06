@@ -1,0 +1,377 @@
+[
+    {
+        "Ultra Greatsword": []
+    },
+    {
+        "Rings": [
+            "agape ring",
+            "tiny beings ring",
+            "cloranthy ring",
+            "royal soldiers ring",
+            "first dragon ring",
+            "ring of steel protection",
+            "spell quartz ring",
+            "flame quartz ring",
+            "thunder quartz ring",
+            "dark quartz ring",
+            "poisonbite ring",
+            "bloodbite ring",
+            "cursebite ring",
+            "bracing knuckle ring",
+            "ash knuckle ring",
+            "dispelling ring",
+            "ring of resistance",
+            "ring of blades",
+            "ring of knowledge",
+            "ring of prayer",
+            "stone ring",
+            "red tearstone ring",
+            "blue tearstone ring",
+            "ring of giants",
+            "old leo ring",
+            "ring of soul protection",
+            "ring of life protection",
+            "lingering dragoncrest ring",
+            "clear bluestone ring",
+            "northern ritual band",
+            "southern ritual band",
+            "covetous gold serpent ring",
+            "covetous silver serpent ring",
+            "ring of the evil eye",
+            "ring of restoration",
+            "ring of binding",
+            "silvercat ring",
+            "redeye ring",
+            "gowers ring of protection",
+            "name-engraved ring",
+            "slumbering dragoncrest ring",
+            "hawk ring",
+            "old sun ring",
+            "illusory ring of a conqueror",
+            "illusory ring of the exalted",
+            "ring of the dead",
+            "ring of thorns",
+            "delicate string",
+            "white ring",
+            "ring of whispers",
+            "kings ring",
+            "blue seal",
+            "guardians seal",
+            "crest of blood",
+            "crest of the rat",
+            "bell keepers seal",
+            "sun seal",
+            "vanquishers seal",
+            "ancient dragon seal",
+            "abyss seal",
+            "illusory ring2",
+            "illusory ring3"
+        ]
+    },
+    {
+        "Greatsword": []
+    },
+    {
+        "Daggers": [
+            "dagger",
+            "royal dirk",
+            "black flamestone dagger",
+            "parrying dagger",
+            "Bandits Knife",
+            "Mythas Bent Blade",
+            "Shadow Dagger",
+            "Thief Dagger",
+            "Broken Thief Sword",
+            "Manikin Knife",
+            "umbral dagger",
+            "blue dagger",
+            "Retainers Short Sword"
+        ]
+    },
+    {
+        "Straight Swords": [
+            "Shortsword",
+            "Longsword",
+            "Yellow Quartz Longsword",
+            "Black Dragon Sword",
+            "Broken Straight Sword",
+            "Broadsword",
+            "Foot Soldier Sword",
+            "Varangian Sword",
+            "Heide Knight Sword",
+            "Blue Flame",
+            "Red Rust Sword",
+            "Sun Sword",
+            "Drakekeepers Sword",
+            "puzzling stone sword",
+            "ashen warrior sword",
+            "fume sword",
+            "possessed armor sword",
+            "ivory straight sword"
+        ]
+    },
+    {
+        "Curved Swords": [
+            "Scimitar",
+            "Red Rust Scimitar",
+            "Spider Fang",
+            "Melu Scimitar",
+            "Monastery Scimitar",
+            "Falchion",
+            "Shotel",
+            "Warped Sword",
+            "Manikin Sabre",
+            "Eleum Loyce"
+        ]
+    },
+    {
+        "Katanas": [
+            "Uchigatana",
+            "Washing Pole",
+            "Chaos Blade",
+            "Blacksteel Katana",
+            "Manslayer",
+            "Berserker Blade",
+            "Darkdrift",
+            "bewitched alonne sword"
+        ]
+    },
+    {
+        "Curved Greatswords": [
+            "Murakumo",
+            "arced sword",
+            "dragon greatsword",
+            "Curved Nil Greatsword"
+        ]
+    },
+    {
+        "Piercing Swords": [
+            "Estoc",
+            "Mail Breaker",
+            "Rapier",
+            "Ricards Rapier",
+            "Chaos Rapier",
+            "Black Scorpion Stinger",
+            "Spiders Silk",
+            "Espada Ropera",
+            "Ice Rapier"
+        ]
+    },
+    {
+        "Axes": [
+            "Dragonslayers Crescent Axe",
+            "Bound Hand Axe",
+            "Hand Axe",
+            "Battle Axe",
+            "Bandit Axe",
+            "Infantry Axe",
+            "Gyrm Axe",
+            "Butchers Knife"
+        ]
+    },
+    {
+        "Great Axes": [
+            "Greataxe",
+            "Bandit Greataxe",
+            "Lion Greataxe",
+            "Giant Stone Axe",
+            "Gyrm Greataxe",
+            "Black Dragon Greataxe",
+            "Black Knight Greataxe",
+            "Drakekeepers Greataxe",
+            "Crescent Axe"
+        ]
+    },
+    {
+        "Hammers": [
+            "Homunculus Mace",
+            "Craftsmans Hammer",
+            "Mace",
+            "Club",
+            "Morning star",
+            "Reinforced Club",
+            "Mace of the Insolent",
+            "Handmaids Ladle",
+            "Blacksmiths Hammer",
+            "Black Dragon Warpick",
+            "Aldia Hammer",
+            "Barbed Club"
+        ]
+    },
+    {
+        "Great Hammers": [
+            "Large Club",
+            "Great Club",
+            "Gyrm Great Hammer",
+            "Iron King Hammer",
+            "Malformed Shell",
+            "Malformed Skull",
+            "Dragon Tooth",
+            "Giant Warrior Club",
+            "Demons Great Hammer",
+            "Archdrake Mace",
+            "Old Knight Hammer",
+            "Drakekeepers Great Hammer",
+            "Sacred Chime Hammer",
+            "Drakekeepers Warpick",
+            "Pickaxe",
+            "Sanctum Mace",
+            "smelter hammer"
+        ]
+    },
+    {
+        "Fist Weapons": [
+            "Caestus",
+            "claw",
+            "Malformed Claws",
+            "Manikin Claws",
+            "work-hook",
+            "bone fist"
+        ]
+    },
+    {
+        "Spears": [
+            "Winged Spear",
+            "Partizan",
+            "Spear",
+            "Pike",
+            "Stone Soldier Spear",
+            "Silverblack Spear",
+            "heide spear",
+            "Pates Spear",
+            "Channelers Trident",
+            "Spitfire Spear",
+            "Dragonslayer Spear",
+            "Gargoyle Bident",
+            "pilgrims spontoon",
+            "Yorghs Spear"
+        ]
+    },
+    {
+        "Halberds": [
+            "Dragonriders Halberd",
+            "Halberd",
+            "Lucerne",
+            "Scythe",
+            "Mastodon Halberd",
+            "Santiers Spear",
+            "Blue Knights Halberd",
+            "Old Knight Halberd",
+            "Old Knight Pike",
+            "Syans Halberd",
+            "Black Knight Halberd",
+            "Roaring Halberd",
+            "Helix Halberd",
+            "wrathful axe"
+        ]
+    },
+    {
+        "Lances": [
+            "heide lance",
+            "Heide Greatlance",
+            "grand lance",
+            "charriot lance",
+            "Rampart Golem Lance"
+        ]
+    },
+    {
+        "Reapers": [
+            "Crescent Sickle",
+            "Great Scythe",
+            "Silverblack Sickle",
+            "Great Machete",
+            "Full Moon Sickle",
+            "Scyther of Nahr Alma",
+            "Bone Scythe",
+            "Scythe of Want"
+        ]
+    },
+    {
+        "Twinblades": [
+            "Twinblade",
+            "Stone Twinblade",
+            "Dragonrider Twinblade",
+            "Red Iron Twinblade",
+            "Curved Twinblade",
+            "Sorcerers Twinblade"
+        ]
+    },
+    {
+        "Whips": [
+            "whip",
+            "Notched Whip",
+            "Bloodied Whip",
+            "Spotted Whip",
+            "Old Whip"
+        ]
+    },
+    {
+        "Bows": [
+            "Short Bow",
+            "Long Bow",
+            "Composite Bow",
+            "Sea Bow",
+            "Dragonrider Bow",
+            "Bell Keeper Bow",
+            "Bow of Want",
+            "Hunters Blackbow"
+        ]
+    },
+    {
+        "Greatbows": [
+            "Alonne Greatbow",
+            "Dragonslayer Greatbow",
+            "possessed armor greatbow",
+            "twin headed greatbow"
+        ]
+    },
+    {
+        "Crossbows": [
+            "Light Crossbow",
+            "Heavy Crossbow",
+            "Shield Crossbow",
+            "Avelyn",
+            "sanctum repeating crossbow",
+            "sanctum crossbow"
+        ]
+    },
+    {
+        "Flames": [
+            "pyromancy flame 1",
+            "pyromancy flame 2"
+        ]
+    },
+    {
+        "Chimes": [
+            "Clerics Sacred Chime",
+            "Witchtree Bellvine",
+            "Priests Chime",
+            "Dragon Chime",
+            "Chime of Want",
+            "Archdrake Chime",
+            "Idols Chime",
+            "Caithas Chime",
+            "Protective Chime",
+            "Disc Chime",
+            "Chime of Screams"
+        ]
+    },
+    {
+        "Staves": [
+            "Withctree Branch",
+            "Lizard Staff",
+            "Transgressors Staff",
+            "Sorcerers Staff",
+            "Staff of Amana",
+            "Olenfords Staff",
+            "archdrake staff",
+            "Bat Staff",
+            "Bone Staff",
+            "Magic Staff of Wisdom",
+            "Sunset Staff",
+            "Black Witchs Staff",
+            "Azal staff",
+            "Retainer Staff"
+        ]
+    }
+]
