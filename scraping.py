@@ -4,7 +4,7 @@ import json
 import operator
 import datetime
 
-items = ["Ultra Greatsword", "Rings", "Greatsword",
+items = ["Ultra Greatswords", "Rings", "Greatswords",
          "Daggers", "Straight Swords", "Curved Swords",
          "Katanas", "Curved Greatswords", "Piercing Swords",
          "Axes", "Great Axes", "Hammers", "Great Hammers",

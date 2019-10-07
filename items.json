@@ -1,6 +1,21 @@
 [
     {
-        "Ultra Greatsword": []
+        "Ultra Greatswords": [
+            "Pursuers Ultra Greatsword",
+            "Zweihander",
+            "drakewing ultra greatsword",
+            "kings ultra greatsword",
+            "drakekeepers ultra greatsword",
+            "Old Knight Ultra Greatsword",
+            "Black Knight Ultra Greatsword",
+            "Greatsword",
+            "Smelter Sword",
+            "crypt blacksword",
+            "lost-sinner-s-sword-lg",
+            "fume ultra greatsword",
+            "Aged Smelter Sword",
+            "Ivory King Ultra Greatsword"
+        ]
     },
     {
         "Rings": [
@@ -69,7 +84,31 @@
         ]
     },
     {
-        "Greatsword": []
+        "Greatswords": [
+            "Bastard Sword",
+            "Bluemoon Greatsword",
+            "Claymore",
+            "Flamberge",
+            "Drangleic Sword",
+            "thorned greatsword",
+            "Moonlight Greatsword",
+            "mastodon greatsword",
+            "rulers sword",
+            "mirrah greatsword",
+            "old mirrah greatsword",
+            "black dragon greatsword",
+            "black knight greatsword",
+            "royal greatsword",
+            "old knight greatsword",
+            "Defender Greatsword",
+            "Watcher Greatsword",
+            "Key to the Embedded",
+            "Drakeblood Greatsword",
+            "majestic greatsword",
+            "charred loyce greatsword",
+            "charred loyce greatsword",
+            "placeholder"
+        ]
     },
     {
         "Daggers": [
