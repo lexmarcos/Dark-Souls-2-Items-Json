@@ -43,7 +43,10 @@ def getItems(item):
                         links.append(l)
                         sword = tr[1].replace("_", " ")
                         sword = sword.replace(".png", "")
-                        itemsJson.append(sword)
+                        itemsJson.append({
+                            "item": sword,
+                            "imgLink": l
+                        })
                         print(sword)
     item = item.replace("+", " ")
     data.append({item: itemsJson})
